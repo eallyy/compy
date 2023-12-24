@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39503f7da98c84bdbbc9a96fe0dbe3da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mousePrefab: {fileID: 8516222168797557770, guid: b3faa29ca3d0d405087459b8df1a92e9, type: 3}
+  - keyboardPrefab: {fileID: 8138721323162106830, guid: e0dce2a6a3a714934a71d2f3b4e19bb5, type: 3}
+  - monitorPrefab: {fileID: 2743865439786754646, guid: 069d84f507d654eafb4c5363f299f1a6, type: 3}
+  - cameraPrefab: {fileID: 7667696362433377311, guid: 26a83bac743f84977af44746109c7930, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
