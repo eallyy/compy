@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/eallyy/compy">
-    <img src="Assets/Images/seffaf.png" alt="Logo" width="80" height="80">
+    <img src="Assets/Images/seffaf.png" alt="Logo" height="80">
   </a>
 
 <h3 align="center">Compy</h3>
