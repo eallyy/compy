@@ -46,6 +46,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <!--
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -56,9 +57,11 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <!--<li><a href="#acknowledgments">Acknowledgments</a></li>
+    -->
   </ol>
 </details>
 
@@ -173,16 +176,12 @@ Project Link: [https://github.com/eallyy/compy](https://github.com/eallyy/compy)
 
 
 
-<!-- ACKNOWLEDGMENTS 
+<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Ceyda Simsir](https://www.linkedin.com/in/ceyda-%C5%9Fim%C5%9Fir-395552252/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
